@@ -1,0 +1,88 @@
+.part_three_header h2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 48px;
+  font-style: normal;
+  line-height: 56px;
+  width: 735px;
+  height: 112px;
+}
+.part_three_text {
+  width: 735px;
+  height: 90px;
+  font-weight: 500;
+  font-size: 18px;
+  gap: 27px;
+}
+.part_three_img_one {
+  width: 399px;
+  height: 242px;
+  border-radius: 20px;
+  left: 321px;
+  top: 1176px;
+}
+
+.part_three_img_two {
+  width: 400px;
+  height: 241px;
+  border-radius: 20px;
+  left: 760px;
+  top: 1176px;
+}
+.part_three_img_three {
+  width: 400px;
+  height: 241px;
+  border-radius: 20px;
+  left: 760px;
+  top: 1176px;
+}
+.part_three {
+  height: 740px;
+  width: 1280px;
+}
+.part_three_img_one_text_hTwo {
+  height: 447px;
+  width: 399px;
+}
+.part_three_img_two_text_hTwo {
+  height: 447px;
+  width: 399px;
+}
+.part_three_imgs_texts_h2s {
+  display: flex;
+  justify-content: space-between;
+}
+.part_three_img_three_text_hTwo {
+  height: 447px;
+  width: 399px;
+}
+.part_three_imgs_texts_h2s p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+}
+.part_three_imgs_texts_h2s h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 106.5%;
+}
+.pattern_three a {
+  color: #f58a07;
+  display: flex;
+}
+.icon {
+  width: 22px;
+  height: 10px;
+  color: #f58a07;
+}
+.p_three_a_p {
+  color: #f58a07;
+}
+.p_three_a {
+  display: flex;
+  align-items: center;
+}
