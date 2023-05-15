@@ -1,0 +1,71 @@
+.part_five_left_slide_up h2 {
+  width: 596px;
+  height: 157px;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 48px;
+  color: #0d1317;
+  line-height: 56px;
+}
+.part_five_left_slide_up p {
+  width: 510px;
+  height: 120px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  color: #5b5b5b;
+}
+.part_five_left_slide_up {
+  gap: 32px;
+  margin-top: 166px;
+}
+.part_five_left_slide_card {
+  height: 192px;
+  width: 264px;
+  gap: 16px;
+}
+.part_five_left_slide_card p {
+  width: 270px;
+  height: 84px;
+  font-family: "Poppins";
+}
+.part_five_left_slide_card_t p {
+  width: 264px;
+  height: 84px;
+  font-family: "Poppins";
+}
+.part_five_left_slide_card_t {
+  height: 192px;
+  width: 264px;
+  gap: 16px;
+}
+.part_five_left_slide_down h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 106.5%;
+}
+.part_five_left_slide_down_cards {
+  width: 600px;
+  height: 192px;
+  display: flex;
+  margin-top: 48px;
+  gap: 26px;
+  /* input */
+}
+.part_five_left_slide {
+  gap: 48px;
+  width: 600px;
+  height: 596px;
+}
+.part_five_right_slide img {
+  margin-left: 47px;
+  margin-top: 96px;
+  border-radius: 20px;
+  width: 638px;
+  height: 671px;
+}
+.part_five {
+  display: flex;
+}

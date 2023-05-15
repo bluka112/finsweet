@@ -1,0 +1,67 @@
+.part_eight {
+  display: flex;
+  gap: 112px;
+  align-items: center;
+}
+
+.part_eight_left_slide {
+  width: 50%;
+  margin-top: 112px;
+}
+.part_eight_right_slide {
+  background-image: url("../images/home/partEight/video-image.png");
+  width: 50%;
+  height: 501px;
+  background-size: auto;
+  display: flex;
+  padding: 40px;
+}
+.part_eight_right_slide_circle {
+  width: 51px;
+  height: 51px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  align-self: flex-end;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.part_eight h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 56px;
+}
+.part_eight_text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #5b5b5b;
+}
+.part_eight_name {
+  color: #063255;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 41px;
+  margin: 0;
+}
+.part_eight_left_slide_down {
+  display: flex;
+  gap: 24px;
+}
+
+.part_eight a {
+  text-decoration: none;
+  color: #f58a07;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+}
+.part_eight_right_slide p {
+  align-self: flex-end;
+  margin-left: 15px;
+  color: white;
+}
+.part_eight_right_slide {
+  margin-top: 112px;
+}
+/* justify content baruun zuun align items deesh doosh */
